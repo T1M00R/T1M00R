@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @T1M00R
-- 👀 I’m interested in game development in Unity. As well as programming in Java and C#. I enjoy Blender 3D modelling a lot also.
-- 🌱 I’m currently learning C# for Untity, Xamarin.Forms, and Java.
+- 👀 I’m interested in game development in Unity. As well as programming in Java and C#. I enjoy Blender 3D modelling also.
+- 🌱 I’m currently learning C# for Unity Game Development.
 - 📫 How to reach me: qwertypoiuasdf@outlook.com
 
 <!---
