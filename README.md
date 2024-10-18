@@ -32,43 +32,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <table>
-        <tr>
-            <td></td>
-            <td><img src="https://skillicons.dev/icons?i=html" /></td>
-            <td></td>
-            <td><img src="https://skillicons.dev/icons?i=css" /></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><img src="https://skillicons.dev/icons?i=bootstrap" /></td>
-            <td><img src="https://skillicons.dev/icons?i=github" /></td>
-            <td><img src="https://skillicons.dev/icons?i=tailwind" /></td>
-            <td><img src="https://skillicons.dev/icons?i=figma" /></td>
-            <td><img src="https://skillicons.dev/icons?i=vscode" /></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td><img src="https://skillicons.dev/icons?i=linux" /></td>
-            <td></td>
-            <td><img src="https://skillicons.dev/icons?i=git" /></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td><img src="https://skillicons.dev/icons?i=react" /></td>
-            <td></td>
-            <td><img src="https://skillicons.dev/icons?i=javascript" /></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><img src="https://skillicons.dev/icons?i=python" /></td>
-            <td><img src="https://skillicons.dev/icons?i=mongodb" /></td>
-            <td><img src="https://skillicons.dev/icons?i=nodejs" /></td>
-            <td><img src="https://skillicons.dev/icons?i=express" /></td>
-            <td></td>
-        </tr>
-    </table>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,github,figma,vscode,git,linux,notion" /><br>
+    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,nodejs,express,nextjs,python,mongodb, supabase,java,eclipse" /><br>
+    <img src="https://skillicons.dev/icons?i=blender,docker,unity,godot,discord,discordbots" /><br>
 </div>
 
 
