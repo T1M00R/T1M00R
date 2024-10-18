@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **AI Web Apps**
  
- 🌱 I’m currently learning **Vite, Supabase, Godot**
+ 🌱 I’m currently learning **Wasp, Supabase, Godot**
 
 ⚡ Fun fact **Coffee beans aren't actually beans—they're seeds from the fruit of the coffee plant, called coffee cherries!**
 
@@ -64,8 +64,6 @@
 
 <br/>
 
-<div align="center">
-<a href='https://ko-fi.com/' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+
 
 <br/>
