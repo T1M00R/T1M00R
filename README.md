@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **AI Web Apps**
+ 🔭 I’m currently working on **Chrome Extensions**
  
  🌱 I’m currently learning **Wasp, Supabase, Godot**
 
