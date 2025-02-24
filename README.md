@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Chrome Extensions**
+ 🔭 I’m currently working on **Software Solutions for Ecom Businesses**
  
- 🌱 I’m currently learning **Wasp, Supabase, Godot**
+ 🌱 I’m currently learning **Docker, Supabase, Godot**
 
 ⚡ Fun fact **Coffee beans aren't actually beans—they're seeds from the fruit of the coffee plant, called coffee cherries!**
 
