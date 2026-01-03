@@ -4,17 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Timoor!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Ireland 🇮🇪</h3>
+<h3 align="center">I love automating stuff and I'm interested in game development, 3D modeling and stable diffusion currently</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Software Solutions for Ecom Businesses**
+ 🔭 I’m currently working on **Automating Everything**
  
- 🌱 I’m currently learning **Docker, Supabase, Godot**
-
-⚡ Fun fact **Coffee beans aren't actually beans—they're seeds from the fruit of the coffee plant, called coffee cherries!**
+ 🌱 I’m currently learning **How to make Claude do everything for me**
 
  </div>
  
